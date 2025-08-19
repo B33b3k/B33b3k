@@ -81,4 +81,16 @@ A passionate developer focused on building scalable applications, crafting clean
 
 ---
 
+---
+
+## 🎮 GitHub Breakout (Live Contributions Game)  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+    <img alt="Breakout Game" src="images/breakout-light.svg" width="640" />
+  </picture>
+</p>
+
+
 💬 Always open for collaborations and discussions — drop me an email or connect on LinkedIn!  
