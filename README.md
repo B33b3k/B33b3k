@@ -1,50 +1,84 @@
-<div style="text-align: center; margin: 2em 0;">
-    <img src="https://github.com/B33b3k/B33b3k/blob/main/1690603648243.jpeg"
-        alt="Bibek Adhikari">
+<div align="center">
+  <img src="https://github.com/B33b3k/B33b3k/blob/main/1690603648243.jpeg" alt="Bibek Adhikari" style="border-radius: 50%;"/>
+</div>  
+
+# 👋 Hi! I'm Bibek Adhikari  
+### 🚀 Full-Stack Web & Mobile Developer | 🌍 Nepal  
+
+A passionate developer focused on building scalable applications, crafting clean user experiences, and exploring **AI/ML** integrations.  
+<div align="center">
+  <a href="https://www.bibekadhikari18.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-bibekadhikari18.com.np-blue?style=flat-square" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bibek-adhikari-6438521b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:beebek2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/B33b3k">
+    <img src="https://komarev.com/ghpvc/?username=B33b3k&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  </a>
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Bibek Adhikari</h1>
 
-<h3 align="center">Full Stack Web and Mobile Developer</h3>
+---
 
-<p align="center">
-  Check out my website: <a href="https://www.bibekadhikari18.com.np/" target="_blank">Click here</a>
+## 🌱 About Me  
+- 🔭 **Full-Stack Development:** React, Next.js, Django, Node.js, Express  
+- 📱 **Mobile Development:** Flutter , React Native 
+- 💻 **Programming Languages:** Python, C++, JavaScript, TypeScript  
+- 🗄️ **Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis  
+- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, Git, CI/CD  
+- 🛠️ **Tools & Libraries:** OpenCV, REST APIs, Jitsi, Supabase  
+- 🤖 **AI & Workflow Automation:** LangChain workflows, AI integrations, Data Mining
+- 🎨 **UI/UX & Design:** Figma
+- 🎯 Open to collaborations on **Full-Stack projects & Mobile apps**  
+- 📫 Reach me at **beebek2004@gmail.com**  
+- 🐱 Fun fact: Coding with a cup of coffee is my superpower! ☕  
+
+---
+
+## 🛠️ Tech Stack  
+
+### ⚡ Languages & Frameworks  
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b33-b3k&label=Profile%20views&color=0e75b6&style=flat" alt="b33b3k" /> </p>
-
-- 🌱 I’m currently learning **Flutter,Dart,Python**
-
-- 📫 How to reach me **beebek2004@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<img src="https://c.tenor.com/eNu5KK9s1RAAAAAC/tenor.gif" align="right" alt="cat-coding" />
-
-
-<a href="https://www.linkedin.com/in/bibek-adhikari-6438521b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/bibek-adhikari-6438521b1/" height="30" width="40" /></a>
-<a href="https://fb.com/b33b3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="b33b3k" height="30" width="40" /></a>
-<a href="https://instagram.com/b33b3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b33b3k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/b33b3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="b33b3k" height="30" width="40" /></a>
+### 🗄️ Databases & Tools  
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="80" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🌐 Connect with Me  
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/b33b3k"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="b33b3k" /></a></p><br><br>
+<p align="left">
+<a href="https://www.linkedin.com/in/bibek-adhikari-6438521b1/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+<a href="https://fb.com/b33b3k" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="40" height="40"/></a>
+<a href="https://instagram.com/b33b3k" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40"/></a>
+<a href="https://www.leetcode.com/b33b3k" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
+---
 
-
-
-
-
-
-
+💬 Always open for collaborations and discussions — drop me an email or connect on LinkedIn!  
