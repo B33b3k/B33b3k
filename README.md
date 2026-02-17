@@ -4,7 +4,7 @@
 
 
 # 👋 Hi! I'm Bibek Adhikari
-### 🚀 Full-Stack Web & Mobile Developer | 🌍 Nepal | 💰 FinTech Enthusiast
+### 🚀 Full-Stack Web & Mobile Developer | 💰 FinTech Enthusiast
 
 I build **scalable web & mobile applications**, craft clean UX, and explore **AI/ML integrations** for real-world solutions, especially in **financial tech, automation, and data-driven apps**.
 
